@@ -37,6 +37,7 @@ MANIFEST
 *.swp
 .gitignore~
 ..gitignore.un~
+*.html~
 *_NAMES.txt
 config.py
 *.zip
