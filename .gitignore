@@ -42,6 +42,7 @@ config.py
 *.zip
 Metadata/
 Practice.ipynb
+scraping_backup.py
 
 
 # PyInstaller
